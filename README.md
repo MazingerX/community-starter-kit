@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- This program will help you understand the basics of sharing
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Share some useful information 
 
 ## Getting started
 
