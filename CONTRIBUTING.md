@@ -16,5 +16,7 @@ There are many ways you can help us make this project better. Every repository i
 - **bug-high-priority**: Send here any bad bugs
 - **bug-low-priority**: Send here any small bugs
 - **help-wanted**: Check here when you run in trouble
+- **intro-help**: To give you a heads up
+
 
 You can also help by translating documentation and reviewing open pull requests.
